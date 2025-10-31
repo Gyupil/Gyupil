@@ -9,7 +9,7 @@
 
 ###
 
-<h4 align="left">🏡 Farm</h4>
+<h3 align="left">🏡 Farm</h4>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<h4 align="left">🖥️ I code with</h4>
+<h3 align="left">🖥️ I code with</h3>
 
 ###
 
@@ -39,7 +39,11 @@
 
 ###
 
-<h4 align="left">🎵 Music</h4>
+<h3 align="left">ㅤ</h3>
+
+###
+
+<h3 align="left">🎵 Music</h4>
 
 ###
 
